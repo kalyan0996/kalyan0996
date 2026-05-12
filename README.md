@@ -62,11 +62,12 @@
 ---
 ## 📊 GitHub Stats
 
-![Kalyan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kalyan0996\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kalyan0996\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0996\&layout=compact\&theme=tokyonight)
 
 ⭐ Aspiring DevOps Engineer 🚀
+
 
 
 
