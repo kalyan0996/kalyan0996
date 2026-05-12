@@ -62,17 +62,12 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyan0996&show_icons=true&theme=tokyonight" />
-</p>
+![Kalyan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kalyan0996\&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0996&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0996\&layout=compact\&theme=tokyonight)
 
-<p align="center">
-  ⭐ Aspiring DevOps Engineer 🚀
-</p>
+⭐ Aspiring DevOps Engineer 🚀
+
 
 
 
