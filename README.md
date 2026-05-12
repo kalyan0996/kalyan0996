@@ -62,11 +62,14 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kalyan0996\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalyan0996\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0996\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kalyan0996\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan0996\&layout=compact\&theme=radical)
 
 ⭐ Aspiring DevOps Engineer 🚀
+
 
 
 
