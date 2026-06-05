@@ -1,17 +1,15 @@
 <div align="center">
 
 ```
-██╗  ██╗ █████╗ ██╗  ██╗   ██╗ █████╗ ███╗   ██╗
-██║ ██╔╝██╔══██╗██║  ╚██╗ ██╔╝██╔══██╗████╗  ██║
-█████╔╝ ███████║██║   ╚████╔╝ ███████║██╔██╗ ██║
-██╔═██╗ ██╔══██║██║    ╚██╔╝  ██╔══██║██║╚██╗██║
-██║  ██╗██║  ██║███████╗██║   ██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+ ██╗  ██╗ █████╗ ██╗  ██╗   ██╗ █████╗ ███╗   ██╗
+ ██║ ██╔╝██╔══██╗██║  ╚██╗ ██╔╝██╔══██╗████╗  ██║
+ █████╔╝ ███████║██║   ╚████╔╝ ███████║██╔██╗ ██║
+ ██╔═██╗ ██╔══██║██║    ╚██╔╝  ██╔══██║██║╚██╗██║
+ ██║  ██╗██║  ██║███████╗██║   ██║  ██║██║ ╚████║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `$ whoami` → DevOps & Cloud Engineer in the making
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=3FB950&center=true&width=520&lines=AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;Jenkins+%7C+ArgoCD+%7C+GitOps+%7C+DevSecOps;Building%2C+Automating%2C+Scaling...;Open+to+DevOps+%2F+Cloud+roles+%F0%9F%9A%80)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=3FB950&center=true&width=600&lines=Aspiring+DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;Jenkins+%7C+GitLab+CI%2FCD+%7C+ArgoCD+%7C+GitOps;DevSecOps+%7C+Agentic+AI+Pipelines+%7C+Blockchain;Open+to+DevOps+%2F+Cloud+Roles+%F0%9F%91%80" alt="Typing SVG" />
 
 </div>
 
@@ -20,14 +18,18 @@
 ## `$ cat profile.yaml`
 
 ```yaml
-name:      "Kalyan Jarpula"
-role:      "Aspiring DevOps & Cloud Engineer"
-location:  "Hyderabad, Telangana, India"
-education: "MCA"
-learning:  ["Kubernetes", "DevSecOps", "GitOps", "Terraform"]
-interests: ["Cloud-Native Apps", "CI/CD Automation", "Container Orchestration"]
-goal:      "Build, Automate, Scale"
-open_to:   "DevOps / Cloud roles"   # actively looking 👀
+name:       "Jarpula Kalyan"
+role:       "Aspiring DevOps & Cloud Engineer"
+location:   "Hyderabad, Telangana, India"
+education:  "MCA — Mahatma Gandhi University (2024–2026)"
+focus:
+  - "Cloud-Native Architecture"
+  - "DevSecOps Pipelines"
+  - "GitOps & Container Orchestration"
+  - "Agentic AI in CI/CD"
+  - "Blockchain-based Systems"
+currently:  "Interning @ SureTrust | Building real-world DevOps projects"
+open_to:    "DevOps / Cloud Engineer Roles"   # actively looking 👀
 ```
 
 ---
@@ -41,96 +43,120 @@ open_to:   "DevOps / Cloud roles"   # actively looking 👀
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+> **AWS Services:** EC2 · S3 · VPC · IAM · CloudFront · ECR · ECS · EKS · ELB · Route 53 · CloudWatch · SNS · Auto Scaling
+
+---
+
 ### ⚙️ CI/CD & DevSecOps
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
+---
+
 ### 📊 Monitoring & Observability
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🐳 Containers & OS
+---
+
+### 🐳 Containers, OS & Dev
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+### 🔐 Security
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 
 ---
 
 ## `$ ls -la projects/`
 
-### 🚀 Wanderlust Mega Project — End-to-End DevSecOps + GitOps CI/CD &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/Wanderlust_Mega_Project)
+---
+
+### 🔗 Fake Product Identification using Blockchain — DevSecOps Pipeline &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996)
+
+> **Solo · DevSecOps · GitOps · Agentic AI · Blockchain**
+
+Blockchain-based product authentication system with a full DevSecOps CI/CD pipeline powered by GitLab CI/CD + GitHub source integration. Features an **Agentic AI-powered pipeline monitor** that autonomously detects errors (server downtime, pod crashes), executes remediation actions, and delivers detailed activity logs via email.
+
+**Pipeline Flow:**
+```
+Dev Push → GitHub → GitLab CI/CD → SonarQube → OWASP → Trivy
+→ Docker Build & Push → K8s Manifests Update → ArgoCD Sync
+→ Kubernetes (Kind) on AWS EC2 → Agentic AI Monitor → Email Reports
+```
+
+`GitLab CI/CD` · `Docker` · `Kubernetes (Kind)` · `ArgoCD` · `SonarQube` · `OWASP` · `Trivy` · `Blockchain` · `Agentic AI` · `AWS EC2` · `MongoDB` · `Nginx`
+
+---
+
+### 🚀 Wanderlust — End-to-End DevSecOps + GitOps on AWS EKS &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/Wanderlust_Mega_Project)
 
 > **Solo · DevSecOps · AWS EKS**
 
-Full DevSecOps pipeline on AWS EKS: Jenkins CI, SonarQube quality gates, OWASP dependency check, Trivy image scanning, Docker build & push, ArgoCD GitOps deployment, Prometheus + Grafana monitoring, and automated Gmail notifications.
+Cloud-native DevSecOps pipeline on AWS EKS using Jenkins CI, full security scanning suite, ArgoCD GitOps delivery, and Prometheus + Grafana observability stack with automated email alerting.
 
-**Pipeline flow:**
+**Pipeline Flow:**
 ```
-Developer Push → GitHub → Jenkins CI → SonarQube → OWASP Scan → Trivy Scan
-→ Docker Build & Push → ArgoCD Sync → Kubernetes (EKS) → Prometheus & Grafana → Email Notifications
+Developer Push → GitHub → Jenkins CI → SonarQube → OWASP → Trivy
+→ Docker Build & Push → ArgoCD Sync → EKS → Prometheus & Grafana → Email Alerts
 ```
 
 `Jenkins` · `ArgoCD` · `Amazon EKS` · `SonarQube` · `Trivy` · `OWASP` · `Docker` · `Prometheus` · `Grafana`
 
 ---
 
-### ✈️ TravelBuddy — Full-Stack Travel Platform &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/TravelBuddy)
-
-> **Team · SureTrust Internship Project**
-
-Contributed to the Frontend team during SureTrust internship under mentor Jasdeep Singh Hanspal. Developed and styled the UI using HTML and CSS, and wrote the Dockerfile for containerization. Application deployed on AWS EC2 and delivered within one week.
-
-`HTML` · `CSS` · `Dockerfile` · `Docker` · `AWS EC2` · `MongoDB`
-
----
-
-### ⚙️ Infrastructure Automation — Terraform & Ansible &nbsp; [![GitHub Terraform](https://img.shields.io/badge/GitHub_(Terraform)-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/terraform-aws-projects) &nbsp; [![GitHub Ansible](https://img.shields.io/badge/GitHub_(Ansible)-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/Ansible-nginx-static-site)
+### ⚙️ Infrastructure Automation — Terraform & Ansible &nbsp; [![Terraform](https://img.shields.io/badge/Terraform_Repo-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/terraform-aws-projects) &nbsp; [![Ansible](https://img.shields.io/badge/Ansible_Repo-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/Ansible-nginx-static-site)
 
 > **Solo · IaC**
 
-Automated AWS infrastructure provisioning using Terraform and server configuration management with Ansible playbooks. Reduced manual setup effort and enforced consistent deployment environments.
+Automated AWS infrastructure provisioning (EC2, S3, VPC) using Terraform modules, and server configuration management via Ansible playbooks — eliminating manual environment setup and enforcing consistent deployments.
 
-`Terraform` · `Ansible` · `AWS` · `IaC`
+`Terraform` · `Ansible` · `AWS EC2` · `S3` · `VPC` · `IaC`
+
+---
+
+### ✈️ TravelBuddy — Full-Stack Travel Platform &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-3fb950?style=flat-square&logo=github&logoColor=black)](https://github.com/kalyan0996/TravelBuddy)
+
+> **Team · SureTrust Internship**
+
+Full-stack travel platform built during SureTrust internship. Contributed to the Frontend team (HTML/CSS UI), authored the Dockerfile for containerization, and deployed the app on AWS EC2 — all delivered within one week.
+
+`HTML` · `CSS` · `Docker` · `AWS EC2` · `MongoDB`
 
 ---
 
 ## `$ git log --oneline internships/`
 
-### ☁️ Cloud & DevOps Engineer Intern — SureTrust
-**Andhra Pradesh, India &nbsp;|&nbsp; Feb 2025 – Present**
-
-- Provisioned and managed AWS resources: EC2, S3, VPC, IAM, ELB, Route 53, CloudWatch, SNS, Auto Scaling
-- Containerized applications with Docker; TravelBuddy project deployed on AWS EC2
-- In progress: GitHub Actions, Kubernetes, ArgoCD, Terraform, Ansible, Prometheus, Grafana
-
----
-
-### 🛠️ DevOps Engineer Intern — Durbhashi Gurukulam Pvt Ltd
-**Rajasthan, India &nbsp;|&nbsp; Full-time**
-
-- Built CI/CD pipelines using GitHub Actions + Dockerfile on Debian Linux for a search engine project
-- Automated MongoDB database backups to a remote server using shell scripting
-- Deployed and maintained application infrastructure on AWS
+| Period | Role | Company |
+|--------|------|---------|
+| Feb 2026 – Present | ☁️ Cloud & DevOps Engineer Intern | **SureTrust** · Andhra Pradesh |
+| Dec 2025 – Mar 2026 | 🛠️ DevOps Engineer Intern | **Durbhashi Gurukulam Pvt Ltd** · Rajasthan |
+| Aug 2025 – Sep 2025 | 💻 Frontend Web Dev Intern | **Edunet Foundation / AICTE** · Remote |
+| May 2025 – Jul 2025 | 🔐 Cyber Security Intern | **CDAC** · Remote |
 
 ---
 
-### 💻 Frontend Web Development Intern — Edunet Foundation / AICTE
+## `$ cat certifications.txt`
 
-- Built responsive web UI components using HTML, CSS, and JavaScript
-
----
-
-### 🔐 Cyber Security Intern — CDAC
-
-- Hands-on exposure to network security and vulnerability assessment fundamentals
+- 🐍 **Python 101 for Data Science** — Cognitive Class *(Jun 2025)*
+- ☁️ **AWS Solutions Architecture Job Simulation** — Forage *(Jul 2025)*
 
 ---
 
@@ -165,6 +191,6 @@ Automated AWS infrastructure provisioning using Terraform and server configurati
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kalyan0996&color=3fb950&style=flat-square&label=Profile+Views)
 
-*"Learning, Building, and Automating — one project at a time."* 🚀
+*"Learning, Building, and Automating — one pipeline at a time."* 🚀
 
 </div>
