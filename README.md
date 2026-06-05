@@ -137,7 +137,7 @@ Automated AWS infrastructure provisioning (EC2, S3, VPC) using Terraform modules
 
 Full-stack travel platform built during SureTrust internship. Contributed to the Frontend team (HTML/CSS UI), authored the Dockerfile for containerization, and deployed the app on AWS EC2 — all delivered within one week.
 
-`HTML` · `CSS` · `Docker` · `AWS EC2` · `MongoDB`
+`HTML` · `CSS` · `Docker` · `AWS EC2` 
 
 ---
 
