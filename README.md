@@ -81,7 +81,7 @@ open_to:    DevOps / Cloud Engineer Roles   # actively looking 👀
 ### 🔗 Product Authentication System — DevSecOps Pipeline
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/kalyan0996/product-authentication-system)
 
-Blockchain-based product authentication with a full DevSecOps CI/CD pipeline. Features an **Agentic AI-powered monitor** that autonomously detects errors (server downtime, pod crashes), executes remediation, and delivers activity logs via email.
+Product authentication with a full DevSecOps CI/CD pipeline. Features an **Agentic AI-powered monitor** that autonomously detects errors (server downtime, pod crashes), executes remediation, and delivers activity logs via email.
 
 ```
 Dev Push → GitHub → GitLab CI/CD → SonarQube → OWASP → Trivy
@@ -89,7 +89,7 @@ Dev Push → GitHub → GitLab CI/CD → SonarQube → OWASP → Trivy
          → Kubernetes (Kind) on AWS EC2 → Agentic AI Monitor → Email Reports
 ```
 
-`GitLab CI/CD` `Docker` `Kubernetes` `ArgoCD` `SonarQube` `OWASP` `Trivy` `AWS EC2` `MongoDB` `Nginx`
+`GitLab CI/CD` `Docker` `Kubernetes` `ArgoCD` `SonarQube` `OWASP` `Trivy` `AWS EC2` `MongoDB` `Nginx` `Agentic AI`
 
 ---
 
