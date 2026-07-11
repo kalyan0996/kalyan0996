@@ -39,7 +39,7 @@ focus:
   - GitOps Delivery (ArgoCD)
   - Infrastructure as Code (Terraform, Ansible)
   - Shift-Left DevSecOps (SonarQube, OWASP Dependency Check, Trivy)
-  - Observability (Prometheus, Grafana, AWS CloudWatch)
+  - Observability (Prometheus, Grafana, AWS CloudWatch, Azure Monitor)
 open_to:     DevOps Engineer | Cloud Engineer | Platform Engineer | SRE   # 👀
 ```
 
